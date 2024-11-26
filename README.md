@@ -25,6 +25,8 @@ CSS: Stylesheet for layout, responsiveness, and design.
 
 Bootstrap Icons: Icon library for social and custom icons.
 
+Profile picture sourced from pexels.com.
+
 
 
 
